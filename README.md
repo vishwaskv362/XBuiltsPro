@@ -16,3 +16,13 @@ custom machine with our Custom PC Configurator or choose a liquid cooling monste
 inferiority of lack of knowledge on building a custom PC or buying a right laptop or a computer 
 for your need should be removed and the process of finding the right model numbers should 
 never hold you back - Customize everything - Build your dream PC with XBuilts Pro
+
+## Steps To Run this Project
+### 1. Install Xampp Server
+### 2. Start Apache and MySQL Servers and go to admin page of MySQL.
+### 3. Create a Database 
+### 4. Upload pcshop.sql to phpmyadmin
+### 5. Now go to Chrome or any other Browser and type localhost/xbuilts/index.php
+### 6. Thats it, You Are in.
+
+Note : For Passwords we have used md5 encryption.
