@@ -25,4 +25,4 @@ never hold you back - Customize everything - Build your dream PC with XBuilts Pr
 ### 5. Now go to Chrome or any other Browser and type localhost/xbuilts/index.php
 ### 6. Thats it, You Are in.
 
-Note : For Passwords we have used md5 encryption.
+Note : For Passwords we have used md5 encryption ane make sure the whole project file is in Xampp/htdocs.
